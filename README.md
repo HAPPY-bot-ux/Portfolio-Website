@@ -1,3 +1,4 @@
+
 Personal Portfolio Website 🌐
 Welcome to the Personal Portfolio Website project!
 This was my very first project, where I took my first step into web development. The goal was to create a simple yet effective portfolio to showcase my skills, projects, and interests using only HTML and CSS.
@@ -35,4 +36,3 @@ Alignment Issues: It took time to understand how to properly align elements usin
 Responsive Design: Initially struggled with media queries but eventually learned how to make the site mobile-friendly.
 🚀 Reflections
 This project was a foundational milestone in my journey as a web developer. It taught me the importance of planning, practice, and attention to detail in creating websites. As my very first project, it holds a special place in my portfolio as a testament to my growth and learning.
-
